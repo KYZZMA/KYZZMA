@@ -1,7 +1,7 @@
 # Hi, I'm Alexandr 👋
 
  </a>
-   <a href="[https://t.me/joinchat/SpqRPBFo_sM6qm05](https://web-telegram.ru/#@AlexzKuz)">
+   <a href="[https://t.me/joinchat/@AlexzKuz]">
        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
    </a>
 <p align='center'>
