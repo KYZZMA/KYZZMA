@@ -1,4 +1,5 @@
 # Hi, I'm Alexandr 👋
+Java developer
 
  </a>
    <a href="https://web-telegram.ru/#@AlexzKuz">
